@@ -1,6 +1,17 @@
 ### Universidade Federal do Amazonas
 ### Sistemas Embarcados
 
+### Teacher
+
+<div>
+  <a href="https://github.com/vandermi">
+  <img style="border-radius: 50%;" src="https://github.com/vandermi.png" width="100px;" alt=""/>
+  <br />
+  <sub><b>Vandermi Silva</b></sub></a>
+</div>
+
+<br/>
+
 ### Autors
 
 <div>
