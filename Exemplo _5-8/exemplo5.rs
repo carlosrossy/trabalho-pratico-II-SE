@@ -1,3 +1,4 @@
+// slide 5
 // Operador complementar (32 bits)
 fn main() {
     let a = 0x5B3C;

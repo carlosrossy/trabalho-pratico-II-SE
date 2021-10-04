@@ -1,3 +1,4 @@
+// slide 8
 /*Suponha que a e b sejam variáveis
 inteiras sem sinal de valores 0x6DB7 e
 0xA726*/
