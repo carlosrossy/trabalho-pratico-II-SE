@@ -13,12 +13,29 @@
 <br/>
 
 ### Autors
+<div>
+  <a href="https://github.com/CarlosBitzin">
+  <img style="border-radius: 50%;" src="https://github.com/CarlosBitzin.png" width="100px;" alt=""/>
+  <br />
+  <sub><b>Carlos Eduardo.</b></sub></a>
+</div>
+
+<br/>
 
 <div>
   <a href="https://github.com/gabrieltav">
   <img style="border-radius: 50%;" src="https://github.com/gabrieltav.png" width="100px;" alt=""/>
   <br />
   <sub><b>Gabriel Tavares.</b></sub></a>
+</div>
+
+<br/>
+
+<div>
+  <a href="https://github.com/joaomvictor">
+  <img style="border-radius: 50%;" src="https://github.com/joaomvictor.png" width="100px;" alt=""/>
+  <br />
+  <sub><b>João Victor.</b></sub></a>
 </div>
 
 <br/>
@@ -40,10 +57,3 @@
 </div>
 
 <br/>
-
-<div>
-  <a href="https://github.com/joaomvictor">
-  <img style="border-radius: 50%;" src="https://github.com/joaomvictor.png" width="100px;" alt=""/>
-  <br />
-  <sub><b>João Victor.</b></sub></a>
-</div>
