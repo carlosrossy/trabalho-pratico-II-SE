@@ -1,6 +1,9 @@
 ### Universidade Federal do Amazonas
 ### Trabalho Sistemas Embarcados
 
+### Teclogia
+- Rust
+
 ### Teacher
 
 <div>
